@@ -1,0 +1,10 @@
+name: PartnerItems
+main: Twizzle\PartnerItems\Loader
+version: 1.0.0
+api: 5.0.0
+author: Twizzle
+description: Partner item system for HCF networks
+
+permissions:
+  partneritems.command.abilities:
+    default: op

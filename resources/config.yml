@@ -1,0 +1,31 @@
+prefix: "§8[§cPartnerItems§8]§r "
+
+cooldowns:
+  global: 10
+  strength: 120
+  resistance: 100
+  ninja: 90
+  tank: 150
+  risky_mode: 140
+  cactus: 130
+  rogue: 45
+  time_warp: 75
+  anti_trap: 80
+  switcher: 65
+  flower_tank: 120
+  medkit: 160
+  time_stone: 180
+  web_shooter: 70
+  stormbreaker: 85
+
+messages:
+  cooldown: "§cThat ability is on cooldown for {seconds} more seconds."
+  global_cooldown: "§eYou are on §dGlobal Abilities §ecooldown for §c{seconds} §eseconds!"
+  no_permission: "§cYou don't have permission to use this command."
+  inventory_full: "§cYour inventory is full!"
+  item_received: "§aYou received {item}!"
+  ability_failed: "§cThe ability failed to execute."
+  nobody_hit: "§cNobody has hit you recently!"
+  no_pearl: "§cYou haven't thrown a pearl recently!"
+  stormbreaker_warning: "§cYour helmet will be removed in §c4 §eseconds!"
+  stormbreaker_removed: "§cYour helmet was removed by Stormbreaker!"
