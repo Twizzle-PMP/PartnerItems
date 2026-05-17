@@ -2,7 +2,7 @@
 
 plugin de partner items pa cualquier modalidad, hcf, practice, survival, lo que sea
 
-**BETA** — si encontras algun bug mandame dm en discord: **twizzle230**
+**BETA** — si encontras algun bug mandame dm en discord: **twizzle230** este plugin esta en beta lo publique ya que estaba aburrido y nesecito ideas pa completarlo
 
 ## comandos
 
